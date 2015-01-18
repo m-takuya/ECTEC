@@ -1,4 +1,4 @@
-package jp.ac.osaka_u.ist.sdl.ectec.reuse.table;
+package jp.ac.osaka_u.ist.sdl.ectec.main.reuse.table;
 
 import jp.ac.osaka_u.ist.sdl.ectec.AbstractSettings;
 import jp.ac.osaka_u.ist.sdl.ectec.LoggingManager;
